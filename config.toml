@@ -18,7 +18,7 @@ stackoverflow = "902358/terry"
 email = "teresa.holfeld@gmail.com"
 
 [params.extra]
-copyright = "© 2017 Teresa Holfeld. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2017 Teresa Holfeld. [Contact/Impressum](/contact/)." 
 poweredby = true
 
 [[menu.main]]
@@ -31,3 +31,8 @@ poweredby = true
     identifier = "about"
     weight = 100
     url = "/about/"
+[[menu.main]]
+    name = "contact"
+    identifier = "contact"
+    weight = 300
+    url = "/contact/"
