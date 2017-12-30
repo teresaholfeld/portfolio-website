@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teresa Holfeld</title>
+    <link>http://teresaholfeld.com/</link>
+    <description>Recent content on Teresa Holfeld</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Dec 2017 11:22:50 +0100</lastBuildDate>
+    
+	<atom:link href="http://teresaholfeld.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Services</title>
+      <link>http://teresaholfeld.com/services/</link>
+      <pubDate>Sat, 30 Dec 2017 11:22:50 +0100</pubDate>
+      
+      <guid>http://teresaholfeld.com/services/</guid>
+      <description>Android Development I develop native Android apps for clients. For the apps I build, I keep the code clean and the user interface simple. When I work with customers, I like to build early prototypes and quick MVPs for trying out features and improving usability early in the process. I like building appealing user interfaces, and try to stick to Material Design. I am using state-of-the-art technologies and architectural patterns, and always strive for clean code, so that it stays maintainable also for my successor developers.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://teresaholfeld.com/about/</link>
+      <pubDate>Sat, 30 Dec 2017 01:40:35 +0100</pubDate>
+      
+      <guid>http://teresaholfeld.com/about/</guid>
+      <description>As freelancer, I make Android apps with a focus on usability and simplicity.
+I run my own side-business, Hamburg Coding School, where I organize and teach courses on coding for adults and kids.
+I&amp;rsquo;m based in Hamburg, Germany, where I offer my services to companies, start-ups and individuals.</description>
+    </item>
+    
+  </channel>
+</rss>
