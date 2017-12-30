@@ -1,0 +1,38 @@
+baseURL = "http://teresaholfeld.com/"
+languageCode = "en-us"
+title = "Teresa Holfeld"
+
+[params]
+author = "Teresa Holfeld"
+intro = "Software Developer and Entrepreneur"
+description = "Freelance software developer, consultant, founder of [Hamburg Coding School](https://hamburgcodingschool.com/).<br/>Based in Hamburg, Germany."
+authorimage = "avatar.jpg"
+dateformat = "Jan 2, 2006"
+    
+[params.social]
+github = "teresaholfeld"
+xing = "Teresa_Holfeld"
+linkedin = "teresa-holfeld-bb854b34"
+twitter = "TeresaHolfeld"
+stackoverflow = "902358/terry"
+email = "you@example.com"
+
+[params.extra]
+copyright = "© 2017 Teresa Holfeld. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = true
+
+[[menu.main]]
+    name = "services"
+    weight = 200
+    identifier = "services"
+    url = "/services/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 100
+    url = "/about/"
+[[menu.main]]
+    name = "projects"
+    identifier = "projects"
+    weight = 300
+    url = "/projects/"

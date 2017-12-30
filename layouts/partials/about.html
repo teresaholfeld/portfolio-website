@@ -1,0 +1,14 @@
+<header class="row text-left title">
+    <h1 class="title">{{ .Title }}</h1>
+</header>
+<section id="content-pane" class="row">
+    <div class="col-md-12 content">
+        <img src="/img/{{ .Params.image }}" alt="Teresa Holfeld" class="img-circle portrait">
+    </div>
+    <div class="col-md-12 content">
+        <h3 class="intro">{{ .Params.description | markdownify }}</h3>
+    </div>
+    <div class="col-md-12 content">
+        {{ .Content }}
+    </div>
+</section>

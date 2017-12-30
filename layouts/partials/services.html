@@ -1,0 +1,13 @@
+<header class="row text-left title">
+    <h1 class="title">{{ .Title }}</h1>
+</header>
+<section id="content-pane" class="row">
+    <div class="col-md-12 content">
+        {{ .Content }}
+    </div>
+    {{ with .Params.hire }}
+    <div class="col-md-12 text-center content">
+        <h3>{{ . | markdownify }}</h3>
+    </div>
+    {{ end }}
+</section>
