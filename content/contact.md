@@ -5,8 +5,8 @@ type: contact
 ---
 
 ### Teresa Holfeld  
-Schröderstr. 22a  
-22087 Hamburg  
+Borselstraße 7  
+22765 Hamburg  
 Germany  
 
 [+49 40 22863615](tel:+49 40 22863615)  

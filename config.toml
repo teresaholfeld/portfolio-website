@@ -18,7 +18,7 @@ stackoverflow = "902358/terry"
 email = "teresa.holfeld@gmail.com"
 
 [params.extra]
-copyright = "© 2017 Teresa Holfeld. [Contact/Impressum](/contact/)." 
+copyright = "Teresa Holfeld. [Contact/Impressum](/contact/)." 
 poweredby = true
 
 [[menu.main]]

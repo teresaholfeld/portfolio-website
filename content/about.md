@@ -6,9 +6,9 @@ type: about
 description: "I'm Teresa, a freelance software developer and entrepreneur. "
 ---
 
-As freelancer, I make Android apps with a focus on usability and simplicity. 
+I'm a freelance software developer. I'm best at native Android development, but I do web development (JavaScript, Node, Databases, HTML, CSS) as well. 
 
-I run my own side-business, Hamburg Coding School, where I organize and teach courses on coding for adults and kids. 
+I run my own side-business, [Hamburg Coding School](https://hamburgcodingschool.com/), where I organize and teach courses on coding for adults. 
 
-I'm based in Hamburg, Germany, where I offer my services to companies, start-ups and individuals.
+I'm based in Hamburg, Germany. I take on contracts here or remotely.
 
