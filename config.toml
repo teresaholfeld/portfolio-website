@@ -1,13 +1,16 @@
 baseURL = "https://teresaholfeld.com/"
 languageCode = "en-us"
 title = "Teresa Holfeld"
+disqusShortname = "teresaholfeld"
 
 [params]
 author = "Teresa Holfeld"
 intro = "Software Developer and Entrepreneur"
-description = "Freelance software developer, consultant, founder of [Hamburg Coding School](https://hamburgcodingschool.com/).<br/>Based in Hamburg, Germany."
+description = """Freelance software developer, consultant, founder of [Hamburg Coding School](https://hamburgcodingschool.com/).  
+Based in Hamburg, Germany."""
 authorimage = "avatar.jpg"
 dateformat = "Jan 2, 2006"
+showcomments = true
     
 [params.social]
 github = "teresaholfeld"
@@ -32,7 +35,28 @@ poweredby = true
     weight = 100
     url = "/about/"
 [[menu.main]]
+    name = "blog"
+    identifier = "blog"
+    weight = 300
+    url = "/blog/"
+[[menu.main]]
     name = "contact"
     identifier = "contact"
+    weight = 400
+    url = "/contact/"
+
+[[menu.blog]]
+    name = "home"
+    weight = 100
+    identifier = "home"
+    url = "/"
+[[menu.blog]]
+    name = "blog"
+    identifier = "blog"
     weight = 300
+    url = "/blog/"
+[[menu.blog]]
+    name = "contact"
+    identifier = "contact"
+    weight = 400
     url = "/contact/"
