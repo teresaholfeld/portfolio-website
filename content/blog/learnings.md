@@ -4,7 +4,6 @@ description: The more books I read, podcasts I listen to, and classes I take, th
 image: studying.jpg
 date: 2020-02-16T11:57:42+01:00
 type: blog
-showcomments: true
 ---
 
 

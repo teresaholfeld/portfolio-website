@@ -60,3 +60,6 @@ poweredby = true
     identifier = "contact"
     weight = 400
     url = "/contact/"
+
+[markup.goldmark.renderer]
+unsafe = true
