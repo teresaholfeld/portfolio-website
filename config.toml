@@ -6,8 +6,8 @@ disqusShortname = "teresaholfeld"
 [params]
 author = "Teresa Holfeld"
 intro = "Software Developer and Entrepreneur"
-description = """Freelance software developer, consultant, founder of [Hamburg Coding School](https://hamburgcodingschool.com/).  
-Based in Hamburg, Germany."""
+description = """Software developer, entrepreneur, founder of [Hamburg Coding School](https://hamburgcodingschool.com/)  
+and [Small and Modern](https://smallandmodern.com/). Based in Hamburg, Germany."""
 authorimage = "avatar.jpg"
 dateformat = "Jan 2, 2006"
 showcomments = true
@@ -18,7 +18,7 @@ xing = "Teresa_Holfeld"
 linkedin = "teresa-holfeld-bb854b34"
 twitter = "TeresaHolfeld"
 stackoverflow = "902358/terry"
-email = "teresa.holfeld@gmail.com"
+email = "teresa@smallandmodern.com"
 
 [params.extra]
 copyright = "Teresa Holfeld. [Contact/Impressum](/contact/)." 
